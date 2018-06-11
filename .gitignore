@@ -4,3 +4,14 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+vendor/*
+tests/*
+vagrant/*
+idea/*
+.idea/modules.xml
+.idea/notepad.homehub.ru.iml
+.idea/vcs.xml
+.idea/workspace.xml
+composer.json
+composer.lock
+composer.phar

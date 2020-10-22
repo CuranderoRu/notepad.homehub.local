@@ -8,10 +8,5 @@ vendor/*
 tests/*
 vagrant/*
 idea/*
-.idea/modules.xml
-.idea/notepad.homehub.ru.iml
-.idea/vcs.xml
-.idea/workspace.xml
-composer.json
-composer.lock
+.idea/*
 composer.phar
